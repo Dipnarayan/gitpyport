@@ -47,8 +47,6 @@ Here the file_path = "pydub-master.zip"
 
 <img src="7.png" width="350px">
 
-<img src="1.png" width="350px">
-
 Now after pressing enter the package will be installed as a module without any need of user interaction. 
 
 <img src="8.png" width="350px">
